@@ -1,4 +1,4 @@
-# USE THE GOOGLE COLAB FOR REVIEW:
+# PREFERABLY USE THE GOOGLE COLAB FOR REVIEW:
 https://colab.research.google.com/drive/1ayDcA2SnIbjR9OQD0aQxI9OHfuosBvHy?usp=sharing
 
 
