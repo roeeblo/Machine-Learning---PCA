@@ -1,3 +1,7 @@
+# USE THE GOOGLE COLAB FOR REVIEW:
+https://colab.research.google.com/drive/1ayDcA2SnIbjR9OQD0aQxI9OHfuosBvHy?usp=sharing
+
+
 ```python
 import pandas as pd
 from sklearn.decomposition import PCA
