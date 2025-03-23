@@ -2,7 +2,7 @@
 https://colab.research.google.com/drive/1ayDcA2SnIbjR9OQD0aQxI9OHfuosBvHy?usp=sharing
 
 ## Overview
-This project focuses on learning and applying **Principal Component Analysis (PCA)**, a fundamental technique for dimensionality reduction and data visualization. The goal is to understand how PCA works, implement it from scratch, and apply it to real-world datasets to reduce dimensions while preserving the most important information.
+This project focuses on learning and applying **Principal Component Analysis (PCA)**, a fundamental technique for dimensionality reduction and data visualization. The goal is to understand how PCA works, implement it from scratch, and apply it to datasets to reduce dimensions while preserving the most important information.
 
 ---
 ```python
