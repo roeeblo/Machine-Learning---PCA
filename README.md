@@ -1,7 +1,10 @@
 # PREFERABLY USE THE GOOGLE COLAB FOR REVIEW:
 https://colab.research.google.com/drive/1ayDcA2SnIbjR9OQD0aQxI9OHfuosBvHy?usp=sharing
 
+## Overview
+This project focuses on learning and applying **Principal Component Analysis (PCA)**, a fundamental technique for dimensionality reduction and data visualization. The goal is to understand how PCA works, implement it from scratch, and apply it to real-world datasets to reduce dimensions while preserving the most important information.
 
+---
 ```python
 import pandas as pd
 from sklearn.decomposition import PCA
